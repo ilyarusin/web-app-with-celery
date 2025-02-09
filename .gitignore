@@ -1,0 +1,5 @@
+dump.rdb
+django_celery/__pycache__
+feedback/__pycache__
+venv/
+db.sqlite3
